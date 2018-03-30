@@ -1,0 +1,113 @@
+@deneme:white;
+@menufont: 'Gentium Book Basic', serif; 
+@headerbodyfont:'Yeseva One', cursive;
+html,
+body,
+#header {
+  width: 100%;
+  height: 100%;
+}
+#header {
+  /*background: url("../images/resim.jpg") no-repeat center center fixed;*/
+  background-size: cover;
+}
+
+.navbar-brand {
+  padding: 0;
+  margin: 0;
+}
+.navbar-brand img {
+  width: 100px;
+}
+
+
+.navbar-nav .nav-link{
+  font-family: @menufont;
+    color:@deneme !important;
+    font-size: 21px;
+    margin-left: 30px;
+    transition: color .5s;
+ }
+.navbar-nav .nav-link:hover{
+ 
+  color: #5c482f !important;
+  
+  
+}
+.fa {
+  color: #dab33e;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.header-body h1{
+  color: @deneme;
+  font-family: @headerbodyfont;
+ 
+  font-size: 90px;
+  margin: 0 auto;
+  max-width: 1000px; 
+  margin-top: 10%;
+}
+.header-body .text-img{
+  margin-top: 20px;
+}
+.header-body .menü-button .row{
+  max-width: 300px;
+  margin: 0 auto;
+}
+.header-body .menü-button .row button{
+  width: 150px;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
+}
+.header-body .menü-button .button1 button{
+  
+  border: none;
+  color:white; 
+  background-color: black;
+  opacity: 0.5;
+  cursor: pointer;
+  display: block;
+  font-size: 15px;
+  margin-left: -35px;
+}
+.header-body .menü-button .button2 button{
+  
+  border: none;
+  color:black; 
+  background-color: #f4f3ee;
+  border: 1px solid #e7e2cd;
+  opacity: 0.5;
+  cursor: pointer;
+  display: block;
+  font-size: 15px;
+}
+#header-alt{
+ /* background: url("/images/bg.png") no-repeat center center fixed;*/
+  background-size: cover;
+  .header-alt-baslik{
+    font-family: @headerbodyfont;
+    color: #cc9900;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 36px;
+  }
+  .header-alt-img{
+    margin-bottom:20px;
+    
+  }
+  .header-alt-p{
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    text-align: center;
+  }
+  .header-alt-profil{
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .header-alt-tabak{
+    margin-top:30px;
+  }
+}
