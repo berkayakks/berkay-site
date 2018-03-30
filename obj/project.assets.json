@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay akkuş\\berkay akkuş.csproj",
+      "projectUniqueName": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay-site\\berkay akkuş.csproj",
       "projectName": "berkay akkuş",
-      "projectPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay akkuş\\berkay akkuş.csproj",
+      "projectPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay-site\\berkay akkuş.csproj",
       "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay akkuş\\obj\\",
+      "outputPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\berkay-site\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

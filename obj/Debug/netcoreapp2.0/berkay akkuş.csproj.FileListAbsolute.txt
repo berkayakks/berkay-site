@@ -8,3 +8,13 @@ C:\Users\berka\OneDrive\Belgeler\GitHub\berkay akkuş\obj\Debug\netcoreapp2.0\be
 C:\Users\berka\OneDrive\Belgeler\GitHub\berkay akkuş\obj\Debug\netcoreapp2.0\berkay akkuş.AssemblyInfo.cs
 C:\Users\berka\OneDrive\Belgeler\GitHub\berkay akkuş\obj\Debug\netcoreapp2.0\berkay akkuş.dll
 C:\Users\berka\OneDrive\Belgeler\GitHub\berkay akkuş\obj\Debug\netcoreapp2.0\berkay akkuş.pdb
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\bin\Debug\netcoreapp2.0\berkay akkuş.deps.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\bin\Debug\netcoreapp2.0\berkay akkuş.runtimeconfig.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\bin\Debug\netcoreapp2.0\berkay akkuş.runtimeconfig.dev.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\bin\Debug\netcoreapp2.0\berkay akkuş.dll
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\bin\Debug\netcoreapp2.0\berkay akkuş.pdb
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\obj\Debug\netcoreapp2.0\berkay akkuş.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\obj\Debug\netcoreapp2.0\berkay akkuş.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\obj\Debug\netcoreapp2.0\berkay akkuş.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\obj\Debug\netcoreapp2.0\berkay akkuş.dll
+C:\Users\berka\OneDrive\Belgeler\GitHub\berkay-site\obj\Debug\netcoreapp2.0\berkay akkuş.pdb
