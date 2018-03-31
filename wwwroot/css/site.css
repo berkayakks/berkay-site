@@ -108,6 +108,7 @@ body,
     padding: 80px 80px 80px 80px;
     margin-top: 100px;
     margin-right: 100px;
+    
 }
 .black-shadow-end{
     text-align: center;
@@ -119,6 +120,6 @@ body,
     margin: 0 auto;
     margin-top: 50px;
 }
-.black-shadow-img{
-   
+.hebele{
+  background-color: red;
 }
