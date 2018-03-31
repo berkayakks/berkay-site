@@ -107,7 +107,7 @@ body,
     background-color: black;
     padding: 80px 80px 80px 80px;
     margin-top: 100px;
-    margin-right: 100px;
+    
     margin-bottom: 100px;
 }
 .black-shadow-end{
@@ -119,5 +119,29 @@ body,
     max-width: 400px;
     margin: 0 auto;
     margin-top: 50px;
+}
+#menü-alanı{
+  background: url("/images/bg.png") no-repeat center center fixed;
+  background-size: cover;
+}
+.menü-alani-h1{
+  max-width: 450px;
+  padding: 0;
+  font-size: 16px;
+  color: #cc9900;
+  font-family: 'Yeseva One', cursive;
+  border-bottom: 1px solid #cc9900;;
+}
+.menü-alani-p{
+  font-size: 15px;
+  color: black;
+  font-family: 'Yeseva One', cursive;
+}
+.menü-alani-baslik{
+  font-size: 36px;
+  color: #cc9900;
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+  margin-left: -100px;
 }
 
