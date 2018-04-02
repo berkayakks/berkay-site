@@ -16,15 +16,31 @@ body,
   width: 100px;
 }
 .navbar-nav .nav-link {
+ 
+  position: relative;
   font-family: 'Gentium Book Basic', serif;
-  color: white !important;
   font-size: 21px;
   margin-left: 30px;
-  transition: color .5s;
+  transition: all .5s;
+  /*overflow: hidden;*/
+  color: white !important;
 }
-.navbar-nav .nav-link:hover {
+.nav-link:before{
+  color: #5c482f;
+  content: '';
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  transition: all .5s;
+}
+.nav-link:hover:before {
+  
+  border-bottom:  8px solid #5c482f;
+}
+.nav-link:hover{
   color: #5c482f !important;
 }
+
 .fa {
   color: #dab33e;
   margin-left: 10px;
