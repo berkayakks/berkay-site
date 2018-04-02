@@ -34,9 +34,8 @@ body,
   transition: all .5s;
 }
 .nav-link:hover:before {
-  
-  border-bottom:  8px solid #5c482f;
-}
+   border-bottom:  8px solid #5c482f;
+ }
 .nav-link:hover{
   color: #5c482f !important;
 }
@@ -119,11 +118,8 @@ body,
     background-size: cover;
 }
 .black-shadow{
-    
-    background-color: black;
-    padding: 80px 80px 80px 80px;
+    padding: 80px;
     margin-top: 100px;
-    
     margin-bottom: 100px;
 }
 .black-shadow-end{
