@@ -156,4 +156,27 @@ body,
   text-align: center;
   margin-left: -100px;
 }
+#alt-gövde{
+  background: url("/images/et-tava.png") no-repeat center center fixed;
+  background-size: cover;
+}
+#alt-gövde .row{
+  max-width: 600px;
+  margin:0 auto;
+}
+.alt-gövde-box{
+  margin-top: 50px;
+  padding: 80px;
+  margin-bottom: 50px;
+}
+.alt-gövde-box h1{
+  color: white;
+  font-size: 36px;
+  font-family: 'Yeseva One', cursive;
+}
+.alt-gövde-box p{
+  color: white;
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 16px;
+}
 
