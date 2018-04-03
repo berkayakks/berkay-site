@@ -179,6 +179,10 @@ body,
   font-family: 'Gentium Book Basic', serif;
   font-size: 16px;
 }
+#son-gövde{
+  background: url("/images/bg.png") no-repeat center center fixed;
+  background-size: cover;
+}
 .son-gövde-imgs{
   margin-top: 70px;
   margin-bottom: 70px;
@@ -212,6 +216,21 @@ body,
 }
 .form-input:focus{
   border: 3px solid #cc9900;
+}
+#footer{
+  background-color: #191919;
+}
+.footer-alt-baslik{
+  color: white;
+  font-size: 36px;
+  font-family: 'Yeseva One', cursive;
+  margin-top: 70px;
+}
+.footer-alt-p{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  
+  color: white;
 }
 
 
