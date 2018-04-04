@@ -4,6 +4,10 @@ body,
   width: 100%;
   height: 100%;
 }
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
 #header {
   background: url("/images/resim.jpg") no-repeat center center fixed;
   background-size: cover;
